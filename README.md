@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1715212800&v=beta&t=Pb3ObcQ-5k9Js4KiwKVc7CI_rGwra6HbUZ9fzx51pWc)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ukm.my%2Fsiswazahfst%2Fdata-science-and-analytics%2F&psig=AOvVaw2sQnHCzIr5K7xOl0z7b0pd&ust=1724523691985000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLitrq3ei4gDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Mohammed Jibril (Sayed)</h1>
 <h3 align="center">Passionate data scientist and web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">

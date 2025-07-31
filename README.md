@@ -1,24 +1,35 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
-
-<h1 align="center">Hi 👋, I'm Mohammed Jibril (Sayed)</h1>
-<h3 align="center">🚀 Passionate Data Scientist | 💻 Full-Stack Web Developer | 🤖 AI & Deep Learning Enthusiast</h3>
-
-<p align="center">
-  <a href="mailto:mohammedsiadjibril@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohammed-siad-jibril-5bb350289" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/zayd_mehmet" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h1>Hi 👋, I'm Mohammed Jibril (Sayed)</h1>
+      <h3>🚀 Passionate Data Scientist | 💻 Full-Stack Web Developer | 🤖 AI & Deep Learning Enthusiast</h3>
+      <p>
+        🔭 I’m currently working on real-world AI projects and full-stack web applications.<br>
+        🌱 I’m continuously exploring Deep Learning, NLP, OCR, and modern web technologies.<br>
+        💬 Ask me about Python, C, ML/DL, NLP, and Web Development.<br>
+        🛠️ I build responsive and scalable apps using React, Firebase, MySQL, and PHP.<br>
+        📫 Reach me at: <a href="mailto:mohammedsiadjibril@gmail.com">mohammedsiadjibril@gmail.com</a><br>
+        ⚡ Fun fact: I turn ideas into solutions with clean code and a creative mindset.
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 👨‍💻 About Me
+### 🌐 Connect with Me
 
-- 🎓 Self-motivated technologist passionate about **Machine Learning, Deep Learning, NLP, and Full-Stack Web Development**
-- 🌱 Currently learning and experimenting with **LLMs, OCR, and real-time AI applications**
-- 💬 Ask me about **Python, C, ML/DL, Web Development, NLP, and problem-solving**
-- 🛠️ I build responsive, scalable apps using **React, Firebase, MySQL, PHP**
-- 📫 Reach me: **mohammedsiadjibril@gmail.com**
-- ⚡ Fun fact: I write code like poetry 🧠✨
+<p align="left">
+  <a href="https://linkedin.com/in/mohammed-siad-jibril-5bb350289" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/zayd_mehmet" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -46,7 +57,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-9A1B76?style=flat-square&logo=spacy&logoColor=white)
 
-#### 🎨 Design & Tools
+#### 🧰 Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -66,13 +77,14 @@
 
 ### 🚀 Projects I'm Proud Of
 
-> Personal projects and open-source tools coming soon! Stay tuned for full-stack apps, ML-powered tools, and more.
+> Personal projects and open-source tools coming soon. Stay tuned!
 
 ---
 
-### 🤝 Let’s Collaborate
+### 🙌 Let’s Collaborate
 
-Open to working on innovative ideas involving AI, full-stack development, and problem-solving. Feel free to reach out or connect via email or LinkedIn!
+I’m open to collaborations on AI, web apps, NLP, OCR, and creative problem-solving.  
+Let’s build something impactful together. Feel free to connect with me!
 
 ---
 
